@@ -34,8 +34,5 @@ public class MainActivity  extends AppCompatActivity {
         button3.setOnClickListener(v -> {
             textView.setBackgroundColor(android.graphics.Color.YELLOW);
         });
-
-        //Comment for revert
-
     }
 }
